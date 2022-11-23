@@ -28,7 +28,7 @@
   
   - JPA
 
-  - Oracle DB
+  - Oracle SQL
 
   - Mybatis
 
